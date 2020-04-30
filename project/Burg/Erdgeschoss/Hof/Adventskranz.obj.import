@@ -15,4 +15,5 @@ dest_files=[ "res://.import/Adventskranz.obj-a21645d5bc92ed740067b38719371f96.me
 
 generate_tangents=true
 scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
 optimize_mesh=true
